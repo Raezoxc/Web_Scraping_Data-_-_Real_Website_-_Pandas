@@ -44,3 +44,7 @@ This Python script scrapes data from Wikipedia's page on the list of largest com
 
 <img width="497" alt="image" src="https://github.com/Raezoxc/Web_Scraping_Data_-Python_Pandas/assets/153198226/852fb40d-6665-42f7-b50e-61240219fadb">
 
+This Python script efficiently scrapes data from Wikipedia's page on the list of largest companies in the United States by revenue, processes it into a Pandas DataFrame, and saves it as a CSV file for further analysis.
+
+**Author**
+ravi Mhatre
